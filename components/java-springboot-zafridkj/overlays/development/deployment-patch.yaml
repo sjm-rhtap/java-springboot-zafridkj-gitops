@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: nexus-docker-nexus.apps.cluster-t98q8.t98q8.sandbox2574.opentlc.com/tssc_qe/java-springboot-zafridkj:9dafb76f8abf960773f7edf36f20a482576a1cef@sha256:0893bd85a7c1563fd2b74a8d1feccfab25b9717f88bab3502a9a56ace3c06db6
+        - image: nexus-docker-nexus.apps.cluster-t98q8.t98q8.sandbox2574.opentlc.com/tssc_qe/java-springboot-zafridkj:9278ed6f44868ea66bdfc4a95fe6174154f9b28a@sha256:c5f762d82d8da57c396cd49265e1b5ed054db9640db99198f88a7a96f7549014
           name: container-image
